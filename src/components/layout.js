@@ -41,7 +41,7 @@ const Layout = ({ isHomePage, children }) => {
       <footer>
         © {new Date().getFullYear()}, Proudly offered by
         {` `}
-        <a href="https://thegreenkitchen.cf/">The Green Kitchen Blog</a>
+        <a href="https://mygreenkitchen.cf/">My green kitchen blog</a>
       </footer>
     </div>
   )
