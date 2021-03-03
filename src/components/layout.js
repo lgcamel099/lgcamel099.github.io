@@ -39,9 +39,9 @@ const Layout = ({ isHomePage, children }) => {
       <main>{children}</main>
 
       <footer>
-        © {new Date().getFullYear()}, Proudly offered by
+        © {new Date().getFullYear()}, Offered by
         {` `}
-        <a href="https://mygreenkitchen.cf/">My green kitchen blog</a>
+        <a href="https://mygreenkitchen.cf/">my green kitchen blog</a>
       </footer>
     </div>
   )
