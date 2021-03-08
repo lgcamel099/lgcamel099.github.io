@@ -15,7 +15,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const BlogPostTemplate = ({ data: { previous, next, post } }) => {
-  const disqusShortname = "realtimeupdates";
+  const disqusShortname = "mygreenkitchen";
   const disqusConfig = {
           identifier: post.id,
           title: post.title,
