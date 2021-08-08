@@ -7,7 +7,7 @@ module.exports = {
       resolve: `gatsby-source-wordpress`,
       options: {
         url:
-          `http://cloudspy.ddns.net:8080/graphql`,
+          `https://gamingorigin.cf/graphql`,
 	production: {
            allow404Images: true
            },
