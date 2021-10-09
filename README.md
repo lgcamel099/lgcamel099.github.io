@@ -1,2 +1,2 @@
-A kitchen blog written in gatsby , and pim
+A blog written in gatsby
 
