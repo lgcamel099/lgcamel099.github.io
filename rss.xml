@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[RSS Feed]]></title><description><![CDATA[gatsby-theme-90s is a Gatsby Theme with some flair from the old web.]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 Dec 2021 06:18:08 GMT</lastBuildDate><item><title><![CDATA[VEGETABLE BROTH]]></title><description><![CDATA[<p>Today we will see an easy recipe that will give you an healthy and flavourful base to make many vegetarian dishes. Let’s see the ingredients and all the tips to prepare your perfect basic vegetable broth. Ingredients:&nbsp; 1 litre of cold water 1 carrot&nbsp; 1 stalk of celery 1 small onion or half an onion&hellip; <a class="more-link" href="/2021/03/03/test2/">Continue reading <span class="screen-reader-text">VEGETABLE BROTH</span></a></p>
+]]></description><link>https://thetechreview.tktest2</link><guid isPermaLink="false">https://thetechreview.tktest2</guid><pubDate>Wed, 03 Mar 2021 18:03:54 GMT</pubDate><content:encoded>
+&lt;figure class=&quot;wp-block-image size-large is-style-rounded&quot;&gt;&lt;div data-gatsby-image-wrapper=&quot;&quot; style=&quot;position:relative;overflow:hidden;display:inline-block;vertical-align:top&quot; class=&quot;gatsby-image-wrapper gatsby-image-wrapper-constrained wp-image-22 inline-gatsby-image-wrapper&quot; data-reactroot=&quot;&quot;&gt;&lt;div style=&quot;max-width:1024px;display:block&quot;&gt;&lt;img alt=&quot;&quot; role=&quot;presentation&quot; aria-hidden=&quot;true&quot; src=&quot;data:image/svg+xml;charset=utf-8,%3Csvg height=&amp;#x27;471&amp;#x27; width=&amp;#x27;1024&amp;#x27; xmlns=&amp;#x27;http://www.w3.org/2000/svg&amp;#x27; version=&amp;#x27;1.1&amp;#x27;%3E%3C/svg%3E&quot; style=&quot;max-width:100%;display:block;position:static&quot;/&gt;&lt;/div&gt;&lt;div aria-hidden=&quot;true&quot; data-placeholder-image=&quot;&quot; style=&quot;height:100%;left:0;position:absolute;top:0;width:100%&quot;&gt;&lt;/div&gt;&lt;picture&gt;&lt;source type=&quot;image/webp&quot; data-srcset=&quot;/static/97d0489204e008705d018347db1d1ee8/fed01/Veggy-Borth.webp 256w,/static/97d0489204e008705d018347db1d1ee8/a8c8b/Veggy-Borth.webp 512w,/static/97d0489204e008705d018347db1d1ee8/9e618/Veggy-Borth.webp 1024w&quot; sizes=&quot;(min-width: 1024px) 1024px, 100vw&quot;/&gt;&lt;img data-gatsby-image-ssr=&quot;&quot; data-wp-inline-image=&quot;1&quot; data-main-image=&quot;&quot; style=&quot;height:100%;left:0;position:absolute;top:0;transform:translateZ(0);transition:opacity 250ms linear;width:100%;will-change:opacity;opacity:0&quot; sizes=&quot;(min-width: 1024px) 1024px, 100vw&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; data-src=&quot;/static/97d0489204e008705d018347db1d1ee8/fff4c/Veggy-Borth.png&quot; data-srcset=&quot;/static/97d0489204e008705d018347db1d1ee8/dbc12/Veggy-Borth.png 256w,/static/97d0489204e008705d018347db1d1ee8/3d329/Veggy-Borth.png 512w,/static/97d0489204e008705d018347db1d1ee8/fff4c/Veggy-Borth.png 1024w&quot; alt=&quot;&quot;/&gt;&lt;/picture&gt;&lt;noscript&gt;&lt;picture&gt;&lt;source type=&quot;image/webp&quot; srcSet=&quot;/static/97d0489204e008705d018347db1d1ee8/fed01/Veggy-Borth.webp 256w,/static/97d0489204e008705d018347db1d1ee8/a8c8b/Veggy-Borth.webp 512w,/static/97d0489204e008705d018347db1d1ee8/9e618/Veggy-Borth.webp 1024w&quot; sizes=&quot;(min-width: 1024px) 1024px, 100vw&quot;/&gt;&lt;img data-gatsby-image-ssr=&quot;&quot; data-wp-inline-image=&quot;1&quot; data-main-image=&quot;&quot; style=&quot;height:100%;left:0;position:absolute;top:0;transform:translateZ(0);transition:opacity 250ms linear;width:100%;will-change:opacity;opacity:0&quot; sizes=&quot;(min-width: 1024px) 1024px, 100vw&quot; decoding=&quot;async&quot; loading=&quot;lazy&quot; src=&quot;/static/97d0489204e008705d018347db1d1ee8/fff4c/Veggy-Borth.png&quot; srcSet=&quot;/static/97d0489204e008705d018347db1d1ee8/dbc12/Veggy-Borth.png 256w,/static/97d0489204e008705d018347db1d1ee8/3d329/Veggy-Borth.png 512w,/static/97d0489204e008705d018347db1d1ee8/fff4c/Veggy-Borth.png 1024w&quot; alt=&quot;&quot;/&gt;&lt;/picture&gt;&lt;/noscript&gt;&lt;script type=&quot;module&quot;&gt;const t=&quot;undefined&quot;!=typeof HTMLImageElement&amp;&amp;&quot;loading&quot;in HTMLImageElement.prototype;if(t){const t=document.querySelectorAll(&quot;img[data-main-image]&quot;);for(let e of t){e.dataset.src&amp;&amp;(e.setAttribute(&quot;src&quot;,e.dataset.src),e.removeAttribute(&quot;data-src&quot;)),e.dataset.srcset&amp;&amp;(e.setAttribute(&quot;srcset&quot;,e.dataset.srcset),e.removeAttribute(&quot;data-srcset&quot;));const t=e.parentNode.querySelectorAll(&quot;source[data-srcset]&quot;);for(let e of t)e.setAttribute(&quot;srcset&quot;,e.dataset.srcset),e.removeAttribute(&quot;data-srcset&quot;);e.complete&amp;&amp;(e.style.opacity=1)}}&lt;/script&gt;&lt;/div&gt;&lt;script type=&quot;application/json&quot; data-wp-inline-image-hydration=&quot;1&quot;&gt;{&quot;image&quot;:{&quot;layout&quot;:&quot;constrained&quot;,&quot;backgroundColor&quot;:&quot;#686858&quot;,&quot;images&quot;:{&quot;fallback&quot;:{&quot;src&quot;:&quot;/static/97d0489204e008705d018347db1d1ee8/fff4c/Veggy-Borth.png&quot;,&quot;srcSet&quot;:&quot;/static/97d0489204e008705d018347db1d1ee8/dbc12/Veggy-Borth.png 256w,\n/static/97d0489204e008705d018347db1d1ee8/3d329/Veggy-Borth.png 512w,\n/static/97d0489204e008705d018347db1d1ee8/fff4c/Veggy-Borth.png 1024w&quot;,&quot;sizes&quot;:&quot;(min-width: 1024px) 1024px, 100vw&quot;},&quot;sources&quot;:[{&quot;srcSet&quot;:&quot;/static/97d0489204e008705d018347db1d1ee8/fed01/Veggy-Borth.webp 256w,\n/static/97d0489204e008705d018347db1d1ee8/a8c8b/Veggy-Borth.webp 512w,\n/static/97d0489204e008705d018347db1d1ee8/9e618/Veggy-Borth.webp 1024w&quot;,&quot;type&quot;:&quot;image/webp&quot;,&quot;sizes&quot;:&quot;(min-width: 1024px) 1024px, 100vw&quot;}]},&quot;width&quot;:1024,&quot;height&quot;:471},&quot;alt&quot;:&quot;&quot;,&quot;className&quot;:&quot;wp-image-22 inline-gatsby-image-wrapper&quot;,&quot;data-wp-inline-image&quot;:&quot;1&quot;}&lt;/script&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;Today we will see an easy recipe that will give you an healthy and flavourful base to make many vegetarian dishes. Let’s see the ingredients and all the tips to prepare your perfect basic vegetable broth.&lt;/p&gt;
+
+
+
+&lt;p&gt;Ingredients:&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;1 litre of cold water&lt;/p&gt;
+
+
+
+&lt;p&gt;1 carrot&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;1 stalk of celery&lt;/p&gt;
+
+
+
+&lt;p&gt;1 small onion or half an onion if you have a big one&lt;/p&gt;
+
+
+
+&lt;p&gt;6 cherry tomatoes or one big tomato&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;a couple of bunches of parsley (do not use if you are pregnant)&lt;/p&gt;
+
+
+
+&lt;p&gt;1 teaspoon of salt&lt;/p&gt;
+
+
+
+&lt;p&gt;Fill a pot with cold water&lt;/p&gt;
+
+
+
+&lt;p&gt;clean the vegetables and chop them into large chunks&lt;/p&gt;
+
+
+
+&lt;p&gt;bring to a boil and cover&lt;/p&gt;
+
+
+
+&lt;p&gt;after reaching the boil, reduce to a gentle simmer and keep simmering for 45 minutes&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;turn off the heat, add one teaspoon of sea salt and let flavour for 5 minutes&lt;/p&gt;
+
+
+
+&lt;p&gt;strain through a sieve and with the help of a ladle, press the vegetables to drain the water out&lt;/p&gt;
+
+
+
+&lt;p&gt;Store into jars with lid. Your vegetable broth will keep for 4 to 5 days in the refrigerator, or for 6 months in the freezer.&amp;nbsp; &lt;/p&gt;
+
+
+&lt;figure class=&quot;wp-block-embed wp-block-embed-youtube is-type-video is-provider-youtube&quot;&gt;&lt;div class=&quot;wp-block-embed__wrapper&quot;&gt;&lt;iframe loading=&quot;lazy&quot;  id=&quot;_ytid_69396&quot;  width=&quot;750&quot; height=&quot;422&quot;  data-origwidth=&quot;750&quot; data-origheight=&quot;422&quot; src=&quot;https://www.youtube.com/embed/45yQpW2jmMg?enablejsapi=1&amp;#038;autoplay=0&amp;#038;cc_load_policy=0&amp;#038;cc_lang_pref=&amp;#038;iv_load_policy=1&amp;#038;loop=1&amp;#038;playlist=45yQpW2jmMg&amp;#038;modestbranding=0&amp;#038;rel=1&amp;#038;fs=1&amp;#038;playsinline=0&amp;#038;autohide=2&amp;#038;theme=dark&amp;#038;color=red&amp;#038;controls=1&amp;#038;&quot; class=&quot;__youtube_prefs__  no-lazyload&quot; title=&quot;YouTube player&quot;  allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen data-no-lazy=&quot;1&quot; data-skipgform_ajax_framebjll=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
