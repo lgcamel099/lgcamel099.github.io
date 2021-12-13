@@ -2,7 +2,7 @@ name: Gatsby Deploy
 
 on:
   schedule:
-    - cron:  '*/25 * * * *'
+    - cron:  '0 0 * * 0'
 
 jobs:
   build:
